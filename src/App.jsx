@@ -9,7 +9,7 @@ import "./App.css";
 import "./imageScroll.css";
 import "./media-querices.css";
 import "./media-querices1.css";
-import Imagescroll from "../public/Images/imageScroll";
+import Imagescroll from "../public/imageScroll";
 import Card from "./components/Card";
 
 function App() {
