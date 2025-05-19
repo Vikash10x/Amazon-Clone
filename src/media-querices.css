@@ -1,0 +1,94 @@
+@media screen and (max-width: 1024px) {
+  .hidden {
+    display: none;
+  }
+
+  .shopping {
+    padding: 0px 10px 15px 2px;
+  }
+
+  .box {
+    width: 31%;
+  }
+
+  .line1 {
+    margin-left: 1.6rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .add-first {
+    width: 60px;
+  }
+
+  .first {
+    width: 70px;
+  }
+
+  .search-input {
+    width: 100%;
+    font-size: 0.68rem;
+    border: none;
+    outline: none;
+  }
+
+  .hidden1 {
+    display: none;
+  }
+
+  .box {
+    width: 46%;
+  }
+
+  .line1 {
+    margin-left: 1.1rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navbar {
+    height: 98px;
+    flex-wrap: wrap;
+  }
+
+  .nav-search {
+    width: 40%;
+    height: 35px;
+  }
+
+  .box {
+    height: 420px;
+    width: 90%;
+  }
+
+  .box-img {
+    height: 330px;
+  }
+
+  .hidden2 {
+    display: none;
+  }
+
+  .line1 {
+    margin-left: 0.6rem;
+  }
+
+  .detail h2 {
+    font-size: 1.2rem;
+  }
+
+  .button {
+    padding: 6px 0px;
+    width: 150px;
+  }
+
+  .f-panel1 {
+    height: 900px;
+    padding: 0px 10px;
+    flex-wrap: wrap;
+  }
+
+  .l-img {
+    margin-right: 2rem;
+  }
+}
