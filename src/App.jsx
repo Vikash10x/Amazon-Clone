@@ -6,10 +6,10 @@ import { TbWorld } from "react-icons/tb";
 import { cardData } from "./components/data";
 
 import "./App.css";
-import "./imageScroll.css";
 import "./media-querices.css";
-import "./media-querices1.css";
-import Imagescroll from "../public/imageScroll";
+import "./imageScroll.css";
+import "./before.css";
+import Imagescroll from "./components/imageScroll";
 import Card from "./components/Card";
 
 function App() {
