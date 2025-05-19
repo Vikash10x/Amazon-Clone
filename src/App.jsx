@@ -6,9 +6,9 @@ import { TbWorld } from "react-icons/tb";
 import { cardData } from "./components/data";
 
 import "./App.css";
-import "./media-querices.css";
 import "./imageScroll.css";
-import "./before.css";
+import "./media-querices.css";
+import "./media-querices1.css";
 import Imagescroll from "../public/Images/imageScroll";
 import Card from "./components/Card";
 
