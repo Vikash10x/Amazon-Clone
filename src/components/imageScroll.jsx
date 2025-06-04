@@ -16,12 +16,12 @@ function Imagescroll() {
   };
 
   const images = [
-    "public/Images/scroll-image2.jpg",
-    "public/Images/scroll-image1.jpg",
-    "public/Images/scroll-image3.jpg",
-    "public/Images/scroll-image4.jpg",
-    "public/Images/scroll-image5.jpg",
-    "public/Images/scroll-image6.jpg",
+    "/scroll-image2.jpg",
+    "/scroll-image1.jpg",
+    "/scroll-image3.jpg",
+    "/scroll-image4.jpg",
+    "/scroll-image5.jpg",
+    "/scroll-image6.jpg",
   ];
 
   return (
