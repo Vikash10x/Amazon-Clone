@@ -19,11 +19,7 @@ function App() {
         <div class="navbar">
           <div className="nev-logo border">
             <div className="logo">
-              <img
-                className="logo-img"
-                src="public/Images/amazon_logo.png"
-                alt=""
-              />
+              <img className="logo-img" src="/amazon_logo.png" alt="" />
             </div>
           </div>
           <div className="nav-addres border">
@@ -47,7 +43,7 @@ function App() {
           </div>
           <div className="nav-flag border">
             <div className="flag">
-              <img className="flag-img" src="public/Images/flag.png" alt="" />
+              <img className="flag-img" src="/flag.png" alt="" />
             </div>
             <div className="city">IN</div>
           </div>
@@ -174,14 +170,14 @@ function App() {
 
         <div className="f-panel2">
           <div>
-            <img className="l-img" src="public/Images/amazon_logo.png" alt="" />
+            <img className="l-img" src="/amazon_logo.png" alt="" />
           </div>
           <div className="box-0">
             <TbWorld />
             <p style={{ marginLeft: 5 }}>English</p>
           </div>
           <div className="box-0" style={{ marginLeft: 7 }}>
-            <img src="public/Images/flag.png" alt="" />
+            <img src="/flag.png" alt="" />
             <p style={{ marginLeft: 5 }}>India</p>
           </div>
         </div>
