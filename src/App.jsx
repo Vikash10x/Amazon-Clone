@@ -7,8 +7,8 @@ import { cardData } from "./components/data";
 
 import "./App.css";
 import "./media-querices.css";
+import "./media-querices1.css";
 import "./imageScroll.css";
-import "./before.css";
 import Imagescroll from "./components/imageScroll";
 import Card from "./components/Card";
 
