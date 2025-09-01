@@ -17,7 +17,7 @@ function App() {
     <div>
       <header>
         <div class="navbar">
-          <div className="nev-logo border">
+          <div className="nev-logo border-border">
             <div className="logo">
               <img className="logo-img" src="/amazon_logo.png" alt="" />
             </div>
